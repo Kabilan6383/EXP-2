@@ -50,21 +50,22 @@ Fuse rating calculation for field and armature:
 
 ## Tabulation for Open Circuit Test and  Load Test and output:
 
-![WhatsApp Image 2025-09-16 at 23 09 25_69f2e11f](https://github.com/user-attachments/assets/3b562f0d-6483-4b67-99da-fce06482b127)
-
-![WhatsApp Image 2025-09-16 at 23 09 25_98baae58](https://github.com/user-attachments/assets/544137e0-477e-4281-9eaf-f840fd474e5b)
-
-![WhatsApp Image 2025-09-16 at 23 09 25_dea8ae95](https://github.com/user-attachments/assets/bb37443b-09b3-4c87-b502-e83a06149a48)
-
-![WhatsApp Image 2025-09-16 at 23 09 26_3e645aaa](https://github.com/user-attachments/assets/c7b1b0c6-1333-4b6f-b575-4fa1aa1ee521)
+![1](https://github.com/user-attachments/assets/ee0f452a-90be-4552-b075-aeca08bb7a5c)
 
 
-<img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/b0346d73-44a3-4dba-9b1f-d70301cac158" />
-<img width="1067" height="313" alt="image" src="https://github.com/user-attachments/assets/96395d38-dc08-48f3-b571-a34078c545bc" />
+![2](https://github.com/user-attachments/assets/9b5d5107-666d-4068-a527-35be8f27968d)
 
 
-<img width="1370" height="626" alt="image" src="https://github.com/user-attachments/assets/4395226d-7c9d-434a-9352-8df720a22892" />
-<img width="1373" height="463" alt="image" src="https://github.com/user-attachments/assets/40dd5e1a-f4f8-4517-9fd3-01d59f710850" />
+![3](https://github.com/user-attachments/assets/369c5c67-f43f-412e-969a-d2ecaaf6f839)
+
+
+![4](https://github.com/user-attachments/assets/2889ebfd-d705-45f9-922f-a41f05fc48ee)
+
+![6](https://github.com/user-attachments/assets/6e2296a1-7a37-4f4b-b1fd-728d13857f44)
+
+
+<img width="751" height="669" alt="Screenshot 2025-09-22 142139" src="https://github.com/user-attachments/assets/1907fec2-aa91-41e4-bd63-125cc3b9734b" />
+
 
 
  
